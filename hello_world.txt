@@ -1,1 +1,2 @@
-Hello there, this is just a test, I hope it works
+Hello there, this is just a test, I hope it works, this is the 2.0 v to test if if
+can independently learn to commit the changes. (:
